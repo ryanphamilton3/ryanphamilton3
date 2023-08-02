@@ -43,7 +43,7 @@
           <span>Ryan Hamilton</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>A A Data Analyst and programmer in West Lawn, PA.</p>
+        <p>A Data Analyst and programmer in West Lawn, PA.</p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
       </div>
     </div>
